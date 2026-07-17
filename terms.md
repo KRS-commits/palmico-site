@@ -37,7 +37,7 @@ You must be at least 18 years old to use Palmico.
 
 ## 5. Privacy
 
-Our [Privacy Policy](/palmico-site/privacy/) describes what we collect and why. Contact matching is optional; your phone number is never required to use Palmico.
+Our [Privacy Policy](/privacy/) describes what we collect and why. Contact matching is optional; your phone number is never required to use Palmico.
 
 ## 6. Account deletion
 

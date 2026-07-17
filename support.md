@@ -21,7 +21,7 @@ the address above with "REPORT" in the subject line.
 - **Delete your account**: Settings → Account → Delete account. This
   permanently removes your account and personal data.
 - **Restore purchases**: Settings → Get micoins → Restore purchases.
-- **Privacy questions**: see the [Privacy Policy](/palmico-site/privacy/).
+- **Privacy questions**: see the [Privacy Policy](/privacy/).
 
 ## A note on micoins
 
