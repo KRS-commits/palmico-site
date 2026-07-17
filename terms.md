@@ -29,6 +29,8 @@ You must be at least 18 years old to use Palmico.
 
 ## 4. Your content and conduct
 
+- You own the content you create in Palmico (predictions, messages, custom categories, profile details). By posting it, you grant us a worldwide, non-exclusive, royalty-free license to host, store, and display that content within Palmico solely to operate and improve the service, for as long as your account exists. Deleting your account ends this license.
+
 - Predictions, chat messages, and custom categories you create must not harass, threaten, defame, or expose private information about anyone.
 - Only make predictions about pals who have chosen to participate in your Crew. Keep it fun — Palmico is built for consenting friends, not for targeting people.
 - You can block any user and report any prediction, chat message, custom category, or user in-app. We review reports and may remove content or suspend accounts. Abuse reports: **palmicosocial@gmail.com**.
