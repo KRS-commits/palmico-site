@@ -17,6 +17,7 @@ we collect, why, and the controls you have. Contact:
 |---|---|---|
 | Sign-in identity (Apple or Google) | Account creation and authentication | Yes |
 | Username, profile photo | Your identity in the app | Username yes, photo optional |
+| Real name | Shown only to your pals, never to anyone else | **Optional** |
 | Phone number | Contact matching to find pals | **Optional — never required** |
 | Contacts | Matching contacts already on Palmico, only if you grant contacts permission | Optional, fully skippable |
 | Predictions, bets, chat messages, badges | Core app functionality | Created by you |
