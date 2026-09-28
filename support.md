@@ -20,11 +20,12 @@ the address above with "REPORT" in the subject line.
 
 - **Delete your account**: Settings → Account → Delete account. This
   permanently removes your account and personal data.
-- **Restore purchases**: Settings → Get micoins → Restore purchases.
 - **Privacy questions**: see the [Privacy Policy](/palmico-site/privacy/).
 
-## A note on micoins
+## How points work
 
-Micoins have no cash value and cannot be redeemed, transferred for value, or
-withdrawn. Palmico is a game — there is no real-money wagering, payout, or
-cash-out anywhere in the app.
+Make a pick (YES or NO) and say how sure you are. Right calls earn points —
+more for higher confidence, plus a bonus when most of your Crew picked the
+other way. Wrong calls score zero; nothing is ever staked or lost. Points are
+just a score for your Crew's leaderboard: they can't be bought, sold,
+transferred, or redeemed, and Palmico has no purchases.
