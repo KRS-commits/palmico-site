@@ -5,23 +5,21 @@ permalink: /terms/
 
 # Palmico Terms of Service
 
-_Last updated: July 17, 2026_
+_Last updated: September 28, 2026_
 
 Welcome to Palmico. By creating an account or using the app you agree to these terms.
 
 ## 1. What Palmico is
 
-Palmico is a social game where friends ("pals") make lighthearted predictions about each other and play with an in-app virtual currency called **micoins**. Palmico is entertainment — it is not a gambling product, a financial service, or a marketplace.
+Palmico is a free social game where friends ("pals") make lighthearted predictions about each other, make picks on whether they'll happen, and earn points for good calls. Palmico is entertainment — it is not a gambling product, a financial service, or a marketplace.
 
-## 2. Micoins — no cash value
+## 2. Points are a game score
 
-**Micoins have no cash value and cannot be redeemed, transferred for value, or withdrawn.**
+**Points are just a score. They have no value and cannot be bought, sold, transferred, redeemed, or exchanged for anything.**
 
-- Micoins are a virtual item licensed to you for use inside Palmico only.
-- Micoins can never be exchanged for money, goods, or anything of value outside the app.
-- There is no real-money payout, wagering, prize, or cash-out mechanic anywhere in Palmico.
-- Purchased micoins are consumed in-app and are non-refundable except as required by law or by Apple's refund policies.
-- We may adjust micoin grants, pricing, and mechanics to keep the game fun and fair.
+- You earn points only by making correct picks. A wrong pick scores zero; nothing is ever staked, spent, or lost.
+- There is no wagering, prize, payout, or purchase of any kind in Palmico.
+- We may adjust scoring and leaderboards to keep the game fun and fair.
 
 ## 3. Eligibility
 
@@ -45,11 +43,11 @@ You can permanently delete your account and associated personal data at any time
 
 ## 7. Purchases
 
-Micoin purchases are processed by Apple through In-App Purchase. Restore purchases is available on the purchase screen. Prices are shown before you buy.
+Palmico is free and has no in-app purchases.
 
 ## 8. Termination
 
-We may suspend or terminate accounts that violate these terms. You may stop using Palmico at any time; micoins have no cash value and no refund is owed on termination.
+We may suspend or terminate accounts that violate these terms. You may stop using Palmico at any time.
 
 ## 9. Disclaimers & liability
 
